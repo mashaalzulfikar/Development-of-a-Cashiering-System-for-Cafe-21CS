@@ -3,7 +3,7 @@
 A comprehensive, web-based cashiering and sales management system developed to streamline operations for coffee shops. Built using PHP, MySQL, and a responsive frontend framework.
 
 ## 🎥 Project Demonstration
-/home/mashaalzulfikar/Downloads/21CS041, 077, 105 WE CEP/21CS041, 077, 105 Project 1/demo.mp4
+https://github.com/user-attachments/assets/54f5c504-0124-4daf-a874-f259f6ae334d
 
 ## 📋 Project Overview
 The **Cafe 21CS Cashiering System** is designed to automate daily sales transactions, improve operational efficiency, and provide secure role-based access management. This system addresses the challenges of manual sales tracking, such as human errors, inefficiency, and delays in fast-paced environments.
